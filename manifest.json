@@ -1,0 +1,35 @@
+{
+  "name": "Task Planner - Organize Your Tasks",
+  "short_name": "Task Planner",
+  "description": "A beautiful React Native task management app to organize your daily tasks and boost productivity",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0ea5e9",
+  "orientation": "portrait",
+  "scope": "/",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192' fill='%23%230ea5e9'%3E%3Cpath d='M96 24c-39.765 0-72 32.235-72 72s32.235 72 72 72 72-32.235 72-72-32.235-72-72-72zm-24 108l-24-24 12-12 12 12 36-36 12 12-48 48z'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' fill='%23%230ea5e9'%3E%3Cpath d='M256 48c-114.87 0-208 93.13-208 208s93.13 208 208 208 208-93.13 208-208-93.13-208-208-208zm-64 288l-64-64 32-32 32 32 96-96 32 32-128 128z'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["productivity", "utilities", "lifestyle"],
+  "screenshots": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 568' fill='%23f8fafc'%3E%3Crect width='320' height='568' fill='%23f8fafc'/%3E%3Ctext x='160' y='100' text-anchor='middle' fill='%23%231e293b' font-size='24' font-weight='bold'%3ETasks%3C/text%3E%3Ctext x='80' y='200' fill='%23%230ea5e9' font-size='20'%3E2 Active%3C/text%3E%3Ctext x='240' y='200' fill='%23%230ea5e9' font-size='20'%3E1 Completed%3C/text%3E%3C/svg%3E",
+      "sizes": "320x568",
+      "type": "image/svg+xml",
+      "form_factor": "narrow"
+    }
+  ]
+}
